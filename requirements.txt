@@ -1,4 +1,1 @@
-pandas
-numpy
-scikit-learn
-matplotlib
+scikit-learn, pandas, numpy, matplotlib, jupyter
