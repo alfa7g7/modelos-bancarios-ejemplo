@@ -1,1 +1,5 @@
-<contenido del archivo requirements.txt>
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
