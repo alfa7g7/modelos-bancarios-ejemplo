@@ -1,1 +1,1 @@
-scikit-learn, pandas, numpy, matplotlib, jupyter
+<contenido del archivo requirements.txt>
