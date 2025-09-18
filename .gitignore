@@ -1,0 +1,65 @@
+# Entornos virtuales
+venv/
+venv_bancario/
+env/
+ENV/
+.venv/
+.env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Archivos de configuración
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de datos grandes (opcional)
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Archivos de modelo entrenado (opcional)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Archivos de configuración local
+config.local.py
+.env.local
